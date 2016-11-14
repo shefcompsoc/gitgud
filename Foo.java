@@ -1,5 +1,6 @@
 class Foo {
   private String message;
+  private Int test;
 
   Foo () {
     message = "Hello Git Gud!";
