@@ -4,7 +4,7 @@ class Foo {
 
   Foo () {
     message = "Hello Git Workshop!";
-    test = 5;
+    test = 10;
   }
 
   public void sayHello () {
