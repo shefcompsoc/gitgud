@@ -3,7 +3,7 @@ class Foo {
   private int test;
 
   Foo () {
-    message = "Hello Git Good?";
+    message = "Hello Git Workshop!";
     test = 5;
   }
 
